@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compose Practice</string>
+    <string name="button_click_me">Click me!</string>
+    <string name="switch">Switch</string>
+    <string name="greetings">Hello Compose it18n</string>
+</resources>
