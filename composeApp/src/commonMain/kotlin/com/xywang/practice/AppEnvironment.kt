@@ -1,9 +1,9 @@
 package com.xywang.practice
-
-import androidx.compose.material.MaterialTheme
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import com.xywang.practice.i18n.Language
+import com.xywang.practice.i18n.LocalLocalization
 
 @Composable
 fun AppEnvironment(
